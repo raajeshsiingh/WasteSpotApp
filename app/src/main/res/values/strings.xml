@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WasteSpotApp</string>
+    <string name="title_activity_rider">Map</string>
+    <string name="title_activity_share">Map</string>
+    <string name="title_activity_request">Map</string>
+    <string name="title_activity_driver">Map</string>
+</resources>
